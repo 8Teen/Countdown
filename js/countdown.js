@@ -1,3 +1,17 @@
+/**
+ * Copyright 2013 Phil Buchanan
+ * 
+ * A basic JavaScript countdown timer. It will
+ * countdown to any date and time in the future
+ * with the option to display a message when
+ * the countdown finishes.
+ * 
+ * Feel free to use it in any of your projects.
+ * No need to credit me or anything.
+ * 
+ * @version 1.0
+ */
+
 function Countdown(year, month, day, hour, minute) {
 
 	this.year     = year;
